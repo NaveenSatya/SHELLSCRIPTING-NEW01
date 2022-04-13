@@ -1,2 +1,2 @@
 This my first GIT repo
-doing my first git repo in server
+doing my first git repo in server and practicing the process
