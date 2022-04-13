@@ -1,1 +1,1 @@
-new repo for test
+SHELL-SCRIPTING-PRACTICE
